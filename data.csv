@@ -1,0 +1,154 @@
+name,ring,quadrant,isNew,description
+Miro,Adopt,Tools,TRUE,"<h3> What is it? </h3>
+Miro is an online whiteboard tool. It has numerous tempaltes and integrations that allow you to run most team activities/ceremonies.
+
+<h3> Why here? </h3>
+At Red Badger, Miro is our default collaboration tool and suitable for most of our use cases.
+
+<h3> Notes </h3>
+<a href=""https://miro.com/"">https://miro.com/</a>"
+Slack Huddles,Trial,Tools,TRUE,"<h3> What is it? </h3>
+A new feature for Slack which allows you to quickly enter audio only calls with your teamates.
+
+<h3> Why here? </h3>
+Huddles are still a relatively new feature and some people will prefer other forms of communication, but huddles seem to be preferable to Slack calls. Huddles are suitable for quick informal chats thata re more ad-hoc
+
+<h3> Notes </h3>
+<a href=""https://slack.com/intl/en-gb/help/articles/4402059015315-Use-huddles-in-Slack"">https://slack.com/intl/en-gb/help/articles/4402059015315-Use-huddles-in-Slack</a>"
+Figjam,Trial,Tools,TRUE,"<h3> What is it? </h3>
+An addition to Figma, FigJam is similar to Miro and comes with templates for Standups, Team Boards and other agile ceremonies.
+
+<h3> Why here? </h3>
+FigJam doesn't appear to be as well adopted as other whiteboarding tools, but it has the benefit of integrating with Figma, allowing you to link elements in your whoteboards to designs & prototypes.
+
+<h3> Notes </h3>
+<a>https://www.figma.com/figjam/</a>"
+Around,Trial,Tools,TRUE,"<h3> What is it? </h3>
+Around is a video call client specifically made to support hybrid working/
+
+<h3> Why here? </h3>
+Around is becoming more popular. It has different layout options to allow you to be visible on a call whilst still working (floating chat windows). It also has several games and features to enhance collaboration.
+
+<h3> Notes </h3>
+<a href=""https://www.around.co/"">https://www.around.co/</a>"
+Cron,Assess,Tools,TRUE,"<h3> What is it? </h3>
+A calendar app for managing multiple shared calendars in one place
+
+<h3> Why here? </h3>
+One issue we face is managing multiple team/client calendars. Cron allows to view all your calendars in one place and help you schedule new meetings. 
+
+<h3> Notes </h3>
+<i><b> Only works with Google Calendars currently, signup via waitlist </b></i>
+<a href=""https://cron.com/"">https://cron.com/</a>
+"
+Loom,Assess,Tools,TRUE,"<h3> What is it? </h3>
+Loom lets you quickly record short emssages from your webcam and your screen and send to teammates
+
+<h3> Why here? </h3>
+When you need to demo something to someone but are working remotely, you can't just go tot heir desk and see it. Loom let's you quickly demo something and send the recording via a shareable link. It emans you don't have to go to the trouble of setting up a fresh zoom or hangout.
+
+<h3> Notes </h3>
+<a href=""https://www.loom.com/"">https://www.loom.com/</a>"
+In-Person days,Adopt,Practices,TRUE,"<h3> What is it? </h3>
+Have one day each week/month, where everyone works in-person.
+
+<h3> Why here? </h3>
+<ul>
+<li> Helps with organising team ceremonies or essential workshops </li>
+<li> Gives team a chance to socialise </li>
+<li> Requires access to a dedicated physical space </li>
+<li> Harder for teams that are more dispersed, further away from each other </li>
+</ul>"
+Regular time for Socialising/Fun,Adopt,Practices,TRUE,"<h3> What is it? </h3>
+Blocking out a regular timeslot for the team to do a fun activity/game
+
+<h3> Why here? </h3>
+<ul>
+<li> Helps with morale & well-being </li>
+<li> Good for team bonding </li>
+<li> Can be done remotely or in-person </li>
+<li> Lots of options for what to do</li>
+</ul>"
+Meeting Free Mornings,Adopt,Practices,TRUE,"<h3> What is it? </h3>
+Blocking out one morning a week where no meetings can be scheduled
+
+<h3> Why here? </h3>
+<ul>
+<li> Gives everyone time to focus on what they need to focus on </li>
+<li> Prevents potential zoom fatigue </li>
+<li> Will inevitably be subject to any emergency/last-minute calls </li>
+<li> Can be a challenge in getting clients on board with the idea </li>
+</ul>"
+Icebreakers/Energisers,Adopt,Practices,TRUE,"<h3> What is it? </h3>
+Starting a meeting with an icebreaker or energiser activity
+
+<h3> Why here? </h3>
+<ul>
+<li> Eases people in to potentially challenging meetings </li>
+<li> Can be tailored to suit the theme of the meeting </li>
+<li> Some clients will struggle to see the benefit <i>""Let's just get to the important stuff""</i> </li>
+</ul>"
+Focus Time,Adopt,Practices,TRUE,"<h3> What is it? </h3>
+Blocking out time to focus on project work with no interruptions
+
+<h3> Why here? </h3>
+<ul>
+<li> <a href=""https://reclaim.ai/blog/what-is-focus-time"">https://reclaim.ai/blog/what-is-focus-time</a> </li>
+<li> Encourages people to prioritise their work, single task-focus </li>
+<li> Gets you into ""deep work"" mode </li>
+<li> Interruptions can still happen </li>
+<li> Not as effective if no focus is set </li>
+<li> In some work environments, blocking out a few hours for yourself won't be realistic </li>
+</ul>"
+Weekly Reports,Hold,Practices,TRUE,"<h3> What is it? </h3>
+Producing a weekly report on the team's progress for stakeholders
+
+<h3> Why here? </h3>
+<ul>
+<li> Good chance they aren't getting read, unless there's a feedback mechanism </li>
+<li> Can be time consuming </li>
+<li> Does encourage you to make time to review team progress/ways of working </li>
+
+</ul>"
+Slack Calls,Hold,Practices,TRUE,"<h3> What is it? </h3>
+Using Slack for team video calls
+
+<h3> Why here? </h3>
+<ul>
+<li> If a video call is required, there are better clients for that </li>
+<li> Can be buggy, prone to mic/camera issues </li>
+
+</ul>"
+Audit Regular Team Meetings,Adopt,Techniques,TRUE,"<h3> What is it? </h3>
+Regularly auditing the team's regular meetings
+
+<h3> Why here? </h3>
+<ul>
+<li> Encourages you to think about what value you're getting from meetings, set an intention/goal for each one </li>
+<li> Bin meetings that aren't working anymore </li>
+
+</ul>"
+Response Time Expectations,Adopt,Techniques,TRUE,"<h3> What is it? </h3>
+Set explicit SLAs for when people can expect responses
+
+<h3> Why here? </h3>
+<ul>
+<li> Sets expectations early </li>
+<li> Can be a challenge to agree to a timeframe that works for all </li>
+
+</ul>"
+Set Client Expectations for Hybrid Working,Adopt,Techniques,TRUE,"<h3> What is it? </h3>
+Creating a Hybrid Working code of conduct with client
+
+<h3> Why here? </h3>
+<ul>
+<li> Manages client expectations early </li>
+<li> Expectations are documented should expectations not be met </li>
+<li> Will likely be some compromise involved </li>
+
+</ul>"
+Maintaing Routines,Adopt,Challenges,TRUE,
+Tooling,Adopt,Challenges,TRUE,
+Workshop Participation & Facilitation,Adopt,Challenges,TRUE,
+Asynchronous Working,Adopt,Challenges,TRUE,
+Visibility,Adopt,Challenges,TRUE,
